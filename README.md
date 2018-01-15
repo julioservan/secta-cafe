@@ -13,7 +13,7 @@ Y para ello, se definen las siguientes reglas:
 6. Encender el móvil por cualquier motivo sí se considera uso del móvil.
 7. Encender el móvil para **mirar la hora** sí se considera uso del móvil.
 8. Si tanto interés tienes por mirar la hora, cómprate un reloj. Son baratos.
-9. Sí, los **smartwatches** son smart-algo así que se considera mirar el móvil. 
+9. Sí, los **smartwatches** son smart-algo así que **si interactúas con él** se considera mirar el móvil. 
 10. ¿Has sacado un **ebook** que tienes conectado a la red y miras ahí internet? Pagas los cafés.
 11. Si un día necesitas mirar el teléfono por algo importante (entrevista de trabajo, asuntos familiares, etc.) una **bula papal** debe ser solicitada a la pandilla. *Bula papal por defecto:* Está permitido el uso del móvil para (y solo para) publicar tweets en [la afrolatina](https://twitter.com/LaAfrolatina).
 12. No, la **cola del microondas** no es "casa", pagas los cafés.
@@ -23,5 +23,6 @@ Y para ello, se definen las siguientes reglas:
 16. Si enciendes la pantalla del móvil, no la miras, pero haces que otro la mire, pagas los cafes, por tonto.
 17. Si **no estás con la pandilla y escribes o llamas a alguien de la pandilla**, y esa persona mira el teléfono, el que lo miró paga cafés. Trolls gonna troll.
 18. En caso de que una persona A lleve a comer con el grupo a una persona B, esta persona A es la responsable de hacer entender a B el funcionamiento de estas reglas. En caso de que dicha persona B incumpla las reglas porque A no le ha explicado esto, A será el responsable en última instancia, y por tanto la persona encargada de pagar los cafés.
+19. Dada la tardanza extrema de Oriol en venir a comer y/o hacer el acto de comer, por el bien del grupo, se le excluye como persona que haya que esperar en el caso que sea el último en seguir comiendo.
 
 Se admiten pull request con modificaciones que deberán ser aprobadas por unanimidad.
